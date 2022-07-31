@@ -13,8 +13,8 @@ Cheers!
 
 ## Git Collaboration
 
-![Git 1](https://github.com/urchnk/kottans-frontend/blob/main/task_linux_cli/git1.png)
-![Git 2](https://github.com/urchnk/kottans-frontend/blob/main/task_linux_cli/git2.png)
+![Git 1](https://github.com/urchnk/kottans-frontend/blob/main/task_git_collaboration/git1.png)
+![Git 2](https://github.com/urchnk/kottans-frontend/blob/main/task_git_collaboration/git2.png)
 
 Ok, that was helpful. I'll certainly use 'reset' and 'revert'. Also 'cherry-pick' > 'rebase', IMHO.
 Cheers!
